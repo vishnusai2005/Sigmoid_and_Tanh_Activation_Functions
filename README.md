@@ -1,1 +1,1 @@
-# Sigmoid_and_Tanh_Activation_Functions.
+# Sigmoid_and_Tanh_Activation_Functions
